@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I've got the code! two for one dollar make ya holler
+I've got the code! two for one dollar make ya holler!
 
 
 
@@ -45,5 +45,4 @@ I've got the code! two for one dollar make ya holler
 </div>
 
 ### ⚡ Fun fact
-
-I love coding in the sun but my laptop gets too hot eventually so i just run back to starbucks
+My half sister from London teaches me british slang
