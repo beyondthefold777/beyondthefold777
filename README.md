@@ -20,7 +20,7 @@ I've got the code! two for one dollar make ya holler!
 
 ### 🔭 I’m working on
 
-- Projects for UCF coding bootcamp.
+- Project for an HVAC Business
 
 
 ### 🌱 I’m learning
